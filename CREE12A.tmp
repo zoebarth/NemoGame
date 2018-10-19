@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Nemo</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Nemo</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>H:\CS III\Semester 2\Multithreading\Lab C Instructions\Snow Day\Cloud.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>H:\CS III\Semester 2\Multithreading\Lab C Instructions\Snow Day\PictureComponent.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>H:\CS III\Semester 2\Multithreading\Lab C Instructions\Snow Day\PictureViewer.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>H:\CS III\Semester 2\Multithreading\Lab C Instructions\Snow Day\Snow.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>H:\CS III\Semester 2\Multithreading\Lab C Instructions\Snow Day\Snowman.java</path>
+			<source>true</source>
+			<index>4</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
